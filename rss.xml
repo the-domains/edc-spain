@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EveryDay Carry para españoles]]></title>
+        <description><![CDATA[EveryDay Carry para españoles]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 20:47:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd5c99ad-2439-4dca-9960-cfee39fcfb93.jpg" alt="Alternativa a las latas ALTOIDS en Tiger">]]></description>
+            <link>undefinedtiger/index.html</link>
+            <guid isPermaLink="false">cdd4471d-ccb4-4029-9ba4-1100a3bc70f6</guid>
+            <pubDate>Tue, 09 Aug 2016 20:46:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
